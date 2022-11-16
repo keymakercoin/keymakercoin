@@ -83,4 +83,4 @@ And to those who contributed to previous releases:
 
 Original-Tasty
 
-As well as everyone that has contributed input and community resources on [Discord](https://discord.gg/kGBcBy5dFG).
+As well as everyone that has contributed input and community resources on [Discord](https://discord.gg/bEZ5BtQUKB).

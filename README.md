@@ -3,6 +3,10 @@
 
 ![](src/qt/res/images/logo.png)
 
+## Current Stable Version
+
+v1.0.0.2   https://github.com/keymakercoin/keymakercoin/tree/a74c778c4dacecd16750c96a65b637c98425ece8
+
 
 
 Links
