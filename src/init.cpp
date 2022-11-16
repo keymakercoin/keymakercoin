@@ -512,7 +512,7 @@ std::string LicenseInfo()
     const std::string URL_WALLETS = "<https://github.com/keymakercoin/keymakercoin/releases>";
     const std::string URL_DISCORD = "<https://discord.gg/bEZ5BtQUKB>";
     const std::string URL_TWITTER = "<https://twitter.com/keymakercc>";
- //   const std::string URL_INSTAGRAM = "<https://www.instagram.com/keymaker_coin/>";
+    const std::string URL_INSTAGRAM = "<https://www.instagram.com/keymaker_coin/>";
 
 
 //    return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2022, COPYRIGHT_YEAR) + " ") + "\n" +
